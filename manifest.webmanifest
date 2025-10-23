@@ -1,0 +1,25 @@
+{
+  "id": "./?source=pwa",
+  "name": "Emoji Grid Generator",
+  "short_name": "EmojiGrid",
+  "description": "Create randomized emoji/icon grids. Works offline and installable.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#4a6bff",
+  "background_color": "#f9f9f9",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
